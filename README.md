@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **MARN**
 
-- 🤝 I’m looking for help with [Employee management system](https://github.com/kedarshenoy/employee.git)
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/kedarshenoy](https://github.com/kedarshenoy)
 
