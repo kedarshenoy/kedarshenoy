@@ -12,7 +12,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/kedarshenoy](https://github.com/kedarshenoy)
+- 👨‍💻 All of my projects are available at [https://github.com/kedarshenoy](https://github.com/kedarshenoy/portfolio.git)
 
 - 💬 Ask me about **php**
 
