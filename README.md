@@ -8,13 +8,13 @@
 
 
 
-- 🌱 I’m currently learning **MARN**
+- 🌱 I’m currently  looking for any ** job opportunities**
 
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/kedarshenoy](https://github.com/kedarshenoy/portfolio.git)
+- 👨‍💻 All of my projects are available at [here!](https://aks-3occ.onrender.com)
 
-- 💬 Ask me about **php**
+- 💬 Ask me about **anything**
 
 - 📫 How to reach me **akedarshenoy@gmail.com**
 
