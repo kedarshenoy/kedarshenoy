@@ -12,7 +12,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [here!](https://aks-3occ.onrender.com)
+- 👨‍💻 All of my projects are available at [here!](http://bit.ly/3RvsoKd)
 
 - 💬 Ask me about **anything**
 
