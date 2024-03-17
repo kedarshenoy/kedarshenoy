@@ -12,7 +12,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [here!](http://bit.ly/3RvsoKd)
+- 👨‍💻 All of my projects are available at [here!](https://kedarshenoy.pages.dev/home)
 
 - 💬 Ask me about **anything**
 
